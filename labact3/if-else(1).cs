@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//an if statement can be followed by an optional else satement,
+//which executes when the boolean expression is false.
 
 namespace LAB3 //BEN JUSTIN Z. ESPIRITU
 {
@@ -11,7 +13,7 @@ namespace LAB3 //BEN JUSTIN Z. ESPIRITU
     {
         static void Main(string[] args)
         {
-        Console.Write("Enter a number: ");
+            Console.Write("Enter a number: ");
             int number = Convert.ToInt32(Console.ReadLine());
             // check the number if its divisible by 2, if yes its even.
             if (number % 2 == 0)

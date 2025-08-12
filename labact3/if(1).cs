@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//an if statemet consists of a boolean expression 
+//followed by one or more statement
 
 namespace LAB3 //BEN JUSTIN Z. ESPIRITU
 {
@@ -42,6 +44,6 @@ namespace LAB3 //BEN JUSTIN Z. ESPIRITU
                 Console.WriteLine("Your Grade is: F");
             }
             Console.ReadKey();
-            }    
         }
     }
+}
