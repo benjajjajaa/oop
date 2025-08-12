@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace labact3
+namespace labact3 //BEN JUSTIN Z. ESPIRITU if-statement(1)
 {
     internal class Program
     {
